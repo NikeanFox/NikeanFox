@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NikeanFox
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on new website and webapp projects
+- 📫 How to reach me slhmrtasa@gmail.com
 
 <!---
 NikeanFox/NikeanFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
